@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Famous Quotes Quiz App</string>
+
+    <string name="hello">Welcome to Famous Quotes Quiz App! \n Good luck!</string>
+
+    <string name="first_question">1. The mind is everything. What you think you become.</string>
+    <string name="first_question1answer">Mark Twain</string>
+    <string name="first_question2answer">John Lennon</string>
+    <string name="first_question3answer">Buddha</string>
+
+    <string name="second_question">2. Whether you think you can or you think you can’t, you’re right. </string>
+    <string name="second_question1answer">Henry Ford</string>
+    <string name="second_question2answer">Donald Trump</string>
+    <string name="second_question3answer">Abraham Lincoln</string>
+
+    <string name="third_question">3. I\'ll make him an offer he can\'t refuse.</string>
+    <string name="third_question1answer">Godfather</string>
+    <string name="third_question2answer">Vito Corleone</string>
+    <string name="third_question3answer">Al Pacino</string>
+
+    <string name="fourth_question">4. People often say that motivation does not last. Well, neither does bathing.  That’s why we recommend it daily.</string>
+    <string name="fourth_question1answer">Leonardo da Vinci</string>
+    <string name="fourth_question2answer">Zig Ziglar</string>
+    <string name="fourth_question3answer">Oprah Winfrey</string>
+
+    <string name="fifth_question">5. Nothing is impossible, the word itself says, “I’m possible!”.</string>
+    <string name="fifth_question1answer">Socrates</string>
+    <string name="fifth_question2answer">Steve Jobs</string>
+    <string name="fifth_question3answer">Audrey Hepburn</string>
+
+    <string name="sixth_question">6. Those who believe in telekinetics, raise my hand.</string>
+    <string name="sixth_question1answer">John Travolta</string>
+    <string name="sixth_question2answer">Kurt Vonnegut</string>
+    <string name="sixth_question3answer">Michael Jordan</string>
+
+    <string name="seventh_question">7. They call it a Royale with cheese.</string>
+    <string name="seventh_question1answer">Vincent Vega</string>
+    <string name="seventh_question2answer">Jules Winfield</string>
+    <string name="seventh_question3answer">Bruce Lee</string>
+
+    <string name="eighth_question">8. They may take our lives, but they\'ll never take our freedom.</string>
+    <string name="hint">Enter name here</string>
+    <string name="eight_answer">William Wallace</string>
+
+    <string name="ninth_question">9. No man has a good enough memory to be a successful liar.</string>
+    <string name="ninth_question1answer">George W. Bush</string>
+    <string name="ninth_question2answer">Ellen DeGeneres</string>
+    <string name="ninth_question3answer">Abraham Lincoln</string>
+
+    <string name="tenth_question">10. Behind every great man is a woman rolling her eyes.</string>
+    <string name="tenth_question1answer">Jimmy Fallon</string>
+    <string name="tenth_question2answer">Jim Carrey</string>
+    <string name="tenth_question3answer">John Cleese</string>
+
+    <string name="submit">Submit</string>
+    <string name="totalValue">Total value: </string>
+    <string name="theBest">You are the best!</string>
+</resources>
